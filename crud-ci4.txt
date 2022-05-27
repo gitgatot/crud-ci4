@@ -1,6 +1,5 @@
 Aplikasi CRUD CI4
 - Menambahkan Create
-- Menambahkan Read
 - Menambahkan Update
 - Menambahkan Delete
 - Membuat table dan menampilkannya
