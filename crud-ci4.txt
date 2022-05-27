@@ -3,3 +3,5 @@ Aplikasi CRUD CI4
 - Menambahkan Update
 - Menambahkan Delete
 - Membuat table dan menampilkannya
+
+Terima kasih
