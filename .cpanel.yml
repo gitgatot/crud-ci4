@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/usercpanel/public_html/git
+- export DEPLOYPATH=/home/dmgtot16/public_html/latihanci
 - /bin/cp -r * $DEPLOYPATH
